@@ -52,15 +52,13 @@ It’s built with care — guided by personal experience, quiet thought, and the
 
 ---
 
-## 🪴 Project Status
-
 | Module | Description | Status |
 |--------|-------------|--------|
 | Module 1 | Project Charter + Voice Definition | ✅ Completed |
 | Module 2 | Content Strategy + seeds.json created | ✅ Completed |
-| Module 3 | Prompt Template + Agent Voice Design | ⏳ In Progress |
-| Module 4 | Post Generator Script (generator.py) | ⬜ Not Started |
-| Module 5 | Review + Draft Output Workflow | ⬜ Not Started |
+| Module 3 | Prompt Template + Agent Voice Design | ✅ Completed |
+| Module 4 | Post Generator Script (generator.py) | ✅ Completed |
+| Module 5 | Review + Draft Output Workflow | ⏳ In Progress |
 | Module 6 | (Optional) Comment Summarizer | ⬜ Planned |
 ---
 
