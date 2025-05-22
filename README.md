@@ -20,18 +20,18 @@ It’s built with care — guided by personal experience, quiet thought, and the
 
 ## 📂 Project Structure
 
-project-agent/
-├── input/ # Content prompts (seeds.json)
-├── output/ # AI-generated drafts
-│ └── generated_posts/
-├── agent/ # Core logic and templates
-│ ├── generator.py
-│ └── prompt_template.txt
-├── logs/ # Optional event logs
-├── config.ini # API keys & settings (excluded from versioning)
-└── README.md # This file
-
-
+- `project-agent/`
+  - `input/` – Content prompts
+    - `seeds.json`
+  - `output/` – AI-generated drafts
+    - `generated_posts/`
+  - `agent/` – Core logic and templates
+    - `generator.py`
+    - `prompt_template.txt`
+  - `logs/` – Optional event logs
+    - `agent.log` or `.gitkeep`
+  - `config.ini` – API keys & settings (excluded from versioning)
+  - `README.md` – This file
 
 ---
 
