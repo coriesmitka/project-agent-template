@@ -60,7 +60,8 @@ It’s built with care — guided by personal experience, quiet thought, and the
 | Module 2 | Content Strategy + seeds.json created | ✅ Completed |
 | Module 3 | Prompt Template + Agent Voice Design | ✅ Completed |
 | Module 4 | Post Generator Script (generator.py) | ✅ Completed |
-| Module 5 | Review + Draft Output Workflow | ⏳ In Progress |
+| Module 4.5 | Component Validation (API, template, response test) | ⏳ In Progress |
+| Module 5 | Review + Draft Output Workflow | ⬜ Not Started |
 | Module 6 | (Optional) Comment Summarizer | ⬜ Planned |
 ---
 
