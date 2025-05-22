@@ -30,6 +30,8 @@ It’s built with care — guided by personal experience, quiet thought, and the
     - `prompt_template.txt`
   - `logs/` – Optional event logs
     - `agent.log` or `.gitkeep`
+  - `tests/` 
+    - `test_generator.py`
   - `config.ini` – API keys & settings (excluded from versioning)
   - `README.md` – This file
 
