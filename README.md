@@ -52,11 +52,16 @@ It’s built with care — guided by personal experience, quiet thought, and the
 
 ---
 
-## 🪴 Status
+## 🪴 Project Status
 
-✅ Folder structure and content seeds created  
-🔜 Next: Agent logic and voice-based post generation
-
+| Module | Description | Status |
+|--------|-------------|--------|
+| Module 1 | Project Charter + Voice Definition | ✅ Completed |
+| Module 2 | Content Strategy + seeds.json created | ✅ Completed |
+| Module 3 | Prompt Template + Agent Voice Design | ⏳ In Progress |
+| Module 4 | Post Generator Script (generator.py) | ⬜ Not Started |
+| Module 5 | Review + Draft Output Workflow | ⬜ Not Started |
+| Module 6 | (Optional) Comment Summarizer | ⬜ Planned |
 ---
 
 ## 📎 Note on Perspective
