@@ -87,11 +87,20 @@ Project Agent can be extended modularly without disrupting the current workflow:
 | Module 5    | Review + Draft Output Workflow              | ⬜ Not Started  |
 | Module 6    | (Optional) Comment Summarizer               | ⬜ Planned      |
 
+
+### ✅ Testing Status
+
+| Test Type               | Description                                           | Status        |
+|-------------------------|-------------------------------------------------------|----------------|
+| Unit Test (Bypass Mode) | Verified generator script runs end-to-end without API | ✅ Completed    |
+| SIT (Full Flow)         | Pending live OpenAI generation & output verification  | ⬜ Pending      |
+| File Structure Check    | VS Code Explorer issue resolved, structure verified   | ✅ Completed    |
+
 ---
 
 ## 📎 Note on Perspective
 
-This project is a personal exploration — not a scientific journal or expert commentary.
+This project is a personal exploration into the quiet impacts of AI on how we think. No hype — just reflection.
 
 I’m not a neuroscientist, AI researcher, or ethicist. I’m a technologist and a reflective thinker, using lived experience and curiosity to ask how AI may be shaping the way we think, choose, and relate to the world.
 
@@ -101,5 +110,4 @@ All reflections are written with care, not credentials — and every post invite
 
 ---
 
-*This is a personal exploration into the quiet impacts of AI on how we think. No hype — just reflection.*
 
