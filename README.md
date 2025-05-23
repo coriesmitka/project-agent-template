@@ -76,6 +76,7 @@ Project Agent can be extended modularly without disrupting the current workflow:
 - The tone is reflective, non-alarmist, and rooted in real personal experience.
 
 ---
+## :clipboard: Project Status
 
 | Module      | Description                                 | Status        |
 |-------------|---------------------------------------------|----------------|
