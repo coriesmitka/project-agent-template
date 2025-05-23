@@ -40,10 +40,32 @@ It’s built with care — guided by personal experience, quiet thought, and the
 
 ## 🧰 Technologies
 
-- OpenAI GPT (via API)
-- Python (modular structure)
+- Python (lightweight modular structure; no formal framework used)
+- OpenAI SDK v1.x (client-based API access with GPT-3.5/GPT-4 compatibility)
 - JSON-based content seeding
-- Optional integrations (Notion, scheduling tools)
+- CSV-based logging and review tracking
+- CLI-driven generation (no web or UI framework at this stage)
+- Optional integrations (e.g., Notion API, publishing tools)
+
+## 🧱 Architecture Notes
+
+Project Agent is intentionally built with a **lightweight, framework-free structure** using core Python. This ensures clarity, portability, and full control over each step in the AI post-generation workflow.
+
+The current design favors:
+- Transparency over abstraction
+- File-based drafts over database dependency
+- Manual review before automation
+
+## 🚀 Extensibility Options
+
+Project Agent can be extended modularly without disrupting the current workflow:
+
+- **FastAPI / Flask** — expose the agent as a web service or REST API
+- **Streamlit / Gradio** — add a visual interface to review or generate posts
+- **Notion / LinkedIn API** — integrate for scheduling or automated publishing
+- **Typer / Argparse** — structure generation logic into a CLI tool
+- **SQLite / JSONL** — replace flat files with versioned storage or searchable history
+
 
 ---
 
