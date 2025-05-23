@@ -95,7 +95,6 @@ Project Agent can be extended modularly without disrupting the current workflow:
 |-------------------------|-------------------------------------------------------|----------------|
 | Unit Test (Bypass Mode) | Verified generator script runs end-to-end without API | ✅ Completed    |
 | SIT (Full Flow)         | Pending live OpenAI generation & output verification  | ⬜ Pending      |
-| File Structure Check    | VS Code Explorer issue resolved, structure verified   | ✅ Completed    |
 
 ---
 
