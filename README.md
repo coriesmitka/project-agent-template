@@ -99,3 +99,7 @@ All reflections are written with care, not credentials — and every post invite
 
 ---
 
+---
+
+*This is a personal exploration into the quiet impacts of AI on how we think. No hype — just reflection.*
+
