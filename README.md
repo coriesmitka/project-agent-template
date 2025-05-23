@@ -25,6 +25,7 @@ It’s built with care — guided by personal experience, quiet thought, and the
     - `seeds.json`
   - `output/` – AI-generated drafts
     - `generated_posts/`
+    - `review_queue/`
   - `agent/` – Core logic and templates
     - `generator.py`
     - `prompt_template.txt`
